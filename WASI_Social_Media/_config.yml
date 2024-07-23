@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: WASI Social Media Guide
-author: Westminster Astronomica Society
+author: Westminster Astronomical Society
 copyright: "2024"
 logo: logo.png
 
@@ -23,7 +23,7 @@ bibtex_bibfiles:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/westminster-astronomical-society/wasi_social_media  # Online location of your book
-  path_to_book: ""  # Optional path to your book, relative to the repository root
+  path_to_book: "WASI_Social_Media"  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
