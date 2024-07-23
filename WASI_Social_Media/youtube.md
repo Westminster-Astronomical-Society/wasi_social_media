@@ -38,7 +38,7 @@ To start or schedule a livestream click the video button in the top right corner
 ```{figure} images/yt_1.png
 ---
 width: 80%
-name: Go_live
+name: Go_stream
 ---
 Livestream setup
 ```
@@ -89,3 +89,46 @@ When finished it will take you to the stream page where you can edit or monitor 
 and stream url and click the share button on the top right get a link to the stream.
 Paste them into a text document, you will need all three when setting up Zoom or other applications.
 
+```{figure} images/yt_settings.png
+---
+width: 80%
+name: livestream_settings
+---
+Livestream Settings
+```
+
+## Setup Zoom for livestreaming to Youtube
+
+Log in to your Zoom account and go to the settings page. Under the meeting settings scroll all the way near the bottom
+under in-meeting advanced and enable livestreaming of meetings. This is already done for the WASI account.
+Select the streaming services you want to use. For scheduled livestreams on Youtube Custom Live streaming Service is the
+one you want to use. You can paste the link, stream key and url into the box below but the key and link will change
+each time. It's best just to keep them handy for when you start the Zoom meeting.
+
+```{figure} images/zoom_setup.png
+---
+width: 80%
+name: zoom_settings
+---
+Zoom Settings
+```
+
+After you start the Zoom meeting click the more button on the bottom row and select Live on Custom Live Streaming Service.
+
+```{figure} images/zoom_setup.png
+---
+width: 80%
+name: start_stream
+---
+Start streaming
+```
+
+A browser page will open where you can enter the stream key, url and link. Click Go Live.
+
+```{figure} images/zoom_live.png
+---
+width: 80%
+name: go_live
+---
+Go Live
+```
