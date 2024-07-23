@@ -115,7 +115,7 @@ Zoom Settings
 
 After you start the Zoom meeting click the more button on the bottom row and select Live on Custom Live Streaming Service.
 
-```{figure} images/zoom_setup.png
+```{figure} images/zoom_meeting.png
 ---
 width: 80%
 name: start_stream
